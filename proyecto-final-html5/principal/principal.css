@@ -1,0 +1,101 @@
+* {
+    margin: 0;
+    padding: 0;
+  
+  }
+  body {
+    background-color: #30475E;
+}
+  
+.cuenta {
+
+    
+   float: right;
+    padding: auto;
+    margin: auto;
+}
+
+#contenedorTitulo{
+    height: 100px;
+    width: 1000px;
+    margin:auto;
+    text-align: center;
+    display: block;
+}
+#titulo {
+  
+   
+    margin: auto;
+    color:#ffffff ;
+    display: inline-block;
+    font-size: 30px;
+
+
+
+}
+
+#iniciarSecion a,
+#Registrar a {
+    background: #1f53c5;
+    display:  inline-block;
+
+    text-decoration: none;
+
+    font-size: 20px;
+    color: #ffffff;
+    margin: 10px 10px 0px 0px  ;
+padding: 6px;
+    border: #424563 solid 1px;
+    height: auto;
+    width: auto;
+    margin-top: 10px;
+    border-radius: 5px;
+  
+}
+
+form {
+margin-top: 100px;
+    
+    padding: 15px;
+    background: #24303c;
+    color: #ffffff;
+   
+    border: solid 0.1px #000;
+    width: 800px;
+   
+    font-size: 35px;
+
+}
+
+p .textoBusqueda{
+    display: inline;
+    text-align: center;
+    color: #141414a2;
+    display: inline;
+    text-align: center;
+ 
+  
+    font-size: 25px;
+
+
+}
+
+.boton {
+    width: 100%;
+    background: #1f53c5;
+    border: none;
+    padding: 5px 0px 5px 0px;
+    color: white;
+    margin: 10px 5px 10px 5px;
+    width: 80px;
+    border-radius: 4px;
+    font-size: 16px;
+  }
+  #contenedorGeneral{
+    background: #2a4561;
+    width: 1000px;
+    height: 650px;
+    border: black solid 1px;
+    box-shadow: 1px 15px 50px  #000;
+   
+  }
